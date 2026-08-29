@@ -4,6 +4,12 @@
 
 **Live Demo:** [awwwardswebsite.netlify.app](https://awwwardswebsite.netlify.app/)
 
+<img width="1900" height="966" alt="Screenshot 2026-08-30 001441" src="https://github.com/user-attachments/assets/28d50f3f-4640-4930-a44d-6ddcaac6621d" />
+<img width="1891" height="965" alt="image" src="https://github.com/user-attachments/assets/895a2ba0-b127-43b7-bb47-eac0a218b55e" />
+<img width="1896" height="957" alt="image" src="https://github.com/user-attachments/assets/9de906e3-b5e7-4a50-897e-4992c7065ead" />
+<img width="1897" height="952" alt="image" src="https://github.com/user-attachments/assets/f6107d57-a36e-49c8-9c93-7466d5f60998" />
+
+
 <div>
   <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
   <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
